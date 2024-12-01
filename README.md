@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 01.12.2024
-## Register Number: 24008061
-## Name: R.MUSHAFINA
+# Date: 
+## Register Number: 
+## Name: 
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,10 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-1. Real-Time Chat: A chat feature(one-on-one message) for instant communication within the community using AI.
-2. Job Board: Displays job postings and internship opportunities shared by alumni or associated companies.
-3. Live Event Streaming: Allows virtual attendance for events like reunions or guest lectures.
-4. Donation Page: Allows the scholars to go through the progress bars showing funding goals and clear project descriptions. Also to contribute to the funds.With the help of Stripe,PayPal.
-5. Alumni Spotlights: Feature an "Alumni of the Month" with interviews and achievements.
-6. Polls and Surveys: Collects alumni feedback on key initiatives or feature ideas. (Google Forms)
+
 
 
 ## Proposed Solution / Architecture Diagram
-![Workshop Web](https://github.com/user-attachments/assets/8806e730-d0db-4e7c-b004-6d57a2f6d99d)
 
 
 
@@ -30,13 +24,10 @@ Government of Gujarat
 
 
 ## Technology Stack
-Frontend Development: HTML5, CSS3, JavaScript (React.js or Angular).
-Backend Development: Node.js, Django, or PHP (Laravel).
-Database: PostgreSQL for structured data or MongoDB for flexibility.
-Hosting: AWS, Azure, or Google Cloud for reliability and scalability.
+
 
 
 ## Dependencies
- Website creation-30 days Data collection-20 days budget-rs.50,000
+
 
 
